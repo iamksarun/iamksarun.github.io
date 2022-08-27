@@ -1,6 +1,7 @@
 title: "Arun K S"
 author: "Arun"
-description: "McGill University"
+description: "Welcome to my personal home page"
+theme: minima
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
